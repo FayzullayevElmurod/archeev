@@ -1,6 +1,7 @@
 <template>
   <div>
-    <h1>Elmurod</h1>
+    <h1>Bayramni boshladik
+    </h1>
   </div>
 </template>
 <script>
