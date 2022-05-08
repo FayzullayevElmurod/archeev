@@ -1,11 +1,13 @@
 <template>
   <div>
-    <h1>Bayramni boshladik
-    </h1>
+    <header-app></header-app>
   </div>
 </template>
 <script>
+import Header from './components/Header.vue'
 export default {
-  
+  components: {
+    'header-app': Header,
+  },
 }
 </script>
